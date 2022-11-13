@@ -64,4 +64,4 @@ Easy setup which uses ChromeDriver to open up a new chrome instance and mint the
 
 6. Run the file
 
-    `Setup.exe`
+    `Setting.exe`
